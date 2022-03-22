@@ -14,7 +14,7 @@ body {
             background-repeat: no-repeat;
             background-position: center center;
             background-size: cover;
-            color: white;
+            color: black;
         }
 
 
@@ -27,6 +27,14 @@ h3 {
     text-align: center;
 
 } 
+h1 {
+  border: 3px solid blue;
+  outline-style: outset;
+  outline-color: red;
+   padding: 4px; 
+  width: 250px;
+  height: 30px;  
+  }
 </style>
 </head>
 <body>
