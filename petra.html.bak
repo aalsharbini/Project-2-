@@ -9,7 +9,7 @@
     </ul>
 <style> 
 html { 
-  background: url(img_man.jpg) no-repeat center fixed; 
+  background: url("https://github.com/aalsharbini/Project-2-/blob/main/petra.jpg")  
   background-size: cover;
 }
 
