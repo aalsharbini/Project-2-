@@ -1,11 +1,11 @@
 <!DOCTYPE html>
 <html>
 <head>
- <nav id="navigation">
+  <nav id="navigation">
     <ul>
-      <li><a href="index.html">All About Ala</a></li>
-      <li><a href="Tesla.html">Ala's Resume</a></li>
-      <li><a href="petra.html">Ala's Reviews</a></li>
+      <li><a href="index.html">Ala's Resume</a></li>
+      <li><a href="Tesla.html">About Tesla</a></li>
+      <li><a href="petra.html">place to visit in Jordan </a></li>
     </ul>
 <style>
 body {
