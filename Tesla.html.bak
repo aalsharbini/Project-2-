@@ -9,8 +9,14 @@
     </ul>
 <style>
 body {
-  background-color: url('tesla.jpg') ; 
-}
+            
+ background-color: url('tesla.jpg');      
+            background-position: center center;
+            background-size: cover;
+            color: white;
+        }
+ 
+
 
   
 h1 {
