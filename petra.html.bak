@@ -8,10 +8,14 @@
       <li><a href="petra.html">place to visit in Jordan </a></li>
     </ul>
 <style> 
-html { 
-  background: url("https://github.com/aalsharbini/Project-2-/blob/main/petra.jpg"); 
-  background-size: cover;
-}
+body {
+            /* background-image: radial-gradient(red, green); */
+           background-image: url('petra.jpg');
+            background-repeat: no-repeat;
+            background-position: center center;
+            background-size: cover;
+            color: white;
+        }
 
 body { 
   color: white; 
